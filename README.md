@@ -1,16 +1,75 @@
-## Hi there 👋
+👋 Hi, I'm Hariharan
 
-<!--
-**hari1769/hari1769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer | Cybersecurity Enthusiast | AI Explorer
 
-Here are some ideas to get you started:
+🎓 Computer Science Student from India
+🌱 Currently learning Full-Stack Development, Cybersecurity, Cloud Computing, and Artificial Intelligence
+💡 Passionate about building technology that solves real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Skills & Technologies
+
+💻 Programming Languages
+
+- Java
+- C
+- C++
+- Python
+- JavaScript
+
+🌐 Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+
+🔐 Cybersecurity
+
+- Basic Network Security
+- Security Fundamentals
+- Cyber Awareness
+
+☁️ Other Areas
+
+- Cloud Computing
+- Git & GitHub
+- AI & Emerging Technologies
+
+---
+
+🚀 Featured Projects
+
+🌱 Smart Farmer Assistant
+
+An AI-powered solution designed to help farmers identify modern plant diseases and receive smart agricultural guidance.
+
+🚨 ResQHub
+
+A disaster management application focused on emergency response, resource coordination, and public safety during natural disasters.
+
+---
+
+🎯 Current Goals
+
+- Master Full-Stack Development
+- Advance Cybersecurity Skills
+- Build AI-powered Applications
+- Contribute to Open Source Projects
+- Create Impactful Solutions for Society
+
+---
+
+🌐 Connect With Me
+
+🔗 LinkedIn: www.linkedin.com/in/hariharan1796
+
+🐙 GitHub: github.com/hari1769
+
+---
+
+✨ Developer Quote
+
+«"Success is built one commit at a time. Keep learning, keep building, and never stop improving."»
+
+⭐ If you like my projects, feel free to explore my repositories and connect with me!
