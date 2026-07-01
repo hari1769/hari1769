@@ -1,142 +1,110 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
+<h3 align="center">🚀 Aspiring Software Developer | Cybersecurity Enthusiast | AI Explorer</h3>
 
-<h3 align="center">
-🚀 Software Developer in Progress | 🔐 Cybersecurity Enthusiast | 🤖 AI Explorer
-</h3><p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub+Profile!;Computer+Science+Student;Cybersecurity+Enthusiast;AI+%26+Cloud+Computing+Learner;Full+Stack+Developer+in+Progress;Building+Technology+for+Real-World+Impact" />
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hari1769&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/hari1769?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/hari1769?affiliations=OWNER&style=for-the-badge&color=yellow" />
-</p>---
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Enthusiast;AI+and+Cloud+Computing+Learner;Full+Stack+Developer+in+Progress;Building+Solutions+for+Real+World+Problems" />
+</p>
 
-🚀 About Me
+<p align="center">
+  <a href="https://github.com/hari1769">
+    <img src="https://komarev.com/ghpvc/?username=hari1769&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
 
-🎓 Computer Science Engineering Student
+---
 
-🔐 Passionate about Cybersecurity, Ethical Hacking & Digital Security
+## 👨‍💻 About Me
 
-🤖 Exploring Artificial Intelligence, Cloud Computing & Emerging Technologies
+🎓 Computer Science Student
 
-💻 Learning Full Stack Development and Software Engineering
+🌱 Learning Full Stack Development, Cybersecurity, Cloud Computing & AI
 
-🌱 Continuously improving my coding, problem-solving, and development skills
+💡 Passionate about solving real-world problems using technology
 
-🚀 Interested in building impactful solutions that solve real-world challenges
+🚀 Always eager to learn new technologies and build impactful projects
 
 📍 India
 
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hariharan1796">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/hari1769">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>---
+</p>
 
-💻 Programming Languages
+---
+
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,javascript" />
-</p>---
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,git,github,vscode" />
+</p>
 
-⚙️ Tools & Technologies
+---
+
+## 🔐 Cybersecurity Skills
+
+- Network Security Fundamentals
+- Cybersecurity Basics
+- Threat Awareness
+- Security Best Practices
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 Smart Farmer Assistant
+AI-powered platform helping farmers identify plant diseases and receive smart recommendations.
+
+### 🚨 ResQHub
+Disaster Management Application designed to improve emergency response and resource coordination.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
-</p><p align="center">
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grok-AI-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Tools-Learning-blueviolet?style=for-the-badge"/>
-</p>---
-
-🔐 Cybersecurity Interests
-
-✔️ Network Security
-
-✔️ Ethical Hacking Fundamentals
-
-✔️ Security Awareness
-
-✔️ Threat Detection Concepts
-
-✔️ Vulnerability Assessment Basics
-
-✔️ Secure Coding Practices
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hari1769&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari1769&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-🚀 Featured Projects
-
-🌾 Smart Farmer Assistant
-
-AI-powered agricultural platform designed to help farmers identify crop diseases, receive recommendations, and improve productivity.
-
-🚨 ResQHub
-
-A disaster management application focused on emergency response coordination, resource tracking, and public safety.
-
----
-
-📈 Current Learning Journey
-
-Cybersecurity        ██████████░░░░░ 70%
-Java Programming     ███████████░░░░ 75%
-Python               █████████░░░░░░ 65%
-Web Development      ████████░░░░░░░ 60%
-Artificial Intelligence ███████░░░░░░░ 55%
-Cloud Computing      ██████░░░░░░░░░ 50%
-
----
-
-📊 GitHub Analytics
+## 🔥 GitHub Streak
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hari1769&show_icons=true&theme=tokyonight&hide_border=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari1769&layout=compact&theme=tokyonight&hide_border=true" />
-</p>---
+<img src="https://streak-stats.demolab.com?user=hari1769&theme=tokyonight" />
+</p>
 
-🔥 GitHub Streak
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hari1769&theme=tokyonight&hide_border=true" />
-</p>---
-
-🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hari1769&theme=tokyonight&row=1&column=7&margin-w=10" />
-</p>---
-
-🎯 2026 Goals
-
-- 🔐 Strengthen Cybersecurity Expertise
-- 🤖 Build AI-Powered Applications
-- 🌐 Master Full Stack Development
-- ☁️ Learn Cloud Technologies
-- 📖 Contribute to Open Source Projects
-- 🚀 Develop Solutions that Create Real Impact
+<img src="https://github-profile-trophy.vercel.app/?username=hari1769&theme=tokyonight&row=1&column=7" />
+</p>
 
 ---
 
-💡 Motto
+## 🎯 2026 Goals
 
-«"Learning never stops. Every line of code is a step toward innovation."»
+✅ Improve Cybersecurity Skills
+
+✅ Build AI-Powered Applications
+
+✅ Master Full Stack Development
+
+✅ Contribute to Open Source
+
+✅ Create Solutions that Impact Society
 
 ---
 
-⚡ Fun Fact
+## ✨ Quote
 
-I enjoy exploring emerging technologies, solving technical challenges, and transforming ideas into practical solutions.
+> "Success is built one commit at a time."
 
----
-
-<div align="center">⭐ Thanks for visiting my profile!
-
-"Building skills today to create smarter solutions tomorrow."
-
-</div>
+⭐ Don't forget to star my repositories if you find them useful!
